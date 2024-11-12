@@ -4,7 +4,6 @@
 
 <h1 align="center">Hi 👋, I'm Husni mubarak v</h1>
 <h3 align="center">Full-Stack Developer Specializing in Django & React.js</h3>
-<img style="width: 500px;object-fit: contain;margin-left: auto;" src="./git hub.webp" alt="git hub.webp">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubarak-v&label=Profile%20views&color=0e75b6&style=flat" alt="mubarak-v" /> </p>
